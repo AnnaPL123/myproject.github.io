@@ -1,0 +1,9 @@
+body{
+    background-image: url("../img/fon.png");
+}
+#b1,#plt{
+    position:absolute;
+}
+h1{
+    color:aliceblue;
+}
